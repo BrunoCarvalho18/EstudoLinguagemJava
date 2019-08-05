@@ -7,7 +7,7 @@ public class IfElseIfElse {
 		if (tempo < 10) {
 			System.out.println("Dia Bom");
 		} else if (tempo < 20) {
-            System.out.println("Bom Dia");
+                        System.out.println("Bom Dia");
 		} else {
 			System.out.println("Boa Noite !");
 		}
